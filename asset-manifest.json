@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bookkeeping-2-website/static/css/main.9ac8f82d.chunk.css",
+    "main.js": "/bookkeeping-2-website/static/js/main.06300837.chunk.js",
+    "main.js.map": "/bookkeeping-2-website/static/js/main.06300837.chunk.js.map",
+    "runtime-main.js": "/bookkeeping-2-website/static/js/runtime-main.c4cd05fa.js",
+    "runtime-main.js.map": "/bookkeeping-2-website/static/js/runtime-main.c4cd05fa.js.map",
+    "static/js/2.8a0d3f26.chunk.js": "/bookkeeping-2-website/static/js/2.8a0d3f26.chunk.js",
+    "static/js/2.8a0d3f26.chunk.js.map": "/bookkeeping-2-website/static/js/2.8a0d3f26.chunk.js.map",
+    "index.html": "/bookkeeping-2-website/index.html",
+    "precache-manifest.c1ec53d0c809149a939000e01dc972ba.js": "/bookkeeping-2-website/precache-manifest.c1ec53d0c809149a939000e01dc972ba.js",
+    "service-worker.js": "/bookkeeping-2-website/service-worker.js",
+    "static/css/main.9ac8f82d.chunk.css.map": "/bookkeeping-2-website/static/css/main.9ac8f82d.chunk.css.map",
+    "static/js/2.8a0d3f26.chunk.js.LICENSE.txt": "/bookkeeping-2-website/static/js/2.8a0d3f26.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4cd05fa.js",
+    "static/js/2.8a0d3f26.chunk.js",
+    "static/css/main.9ac8f82d.chunk.css",
+    "static/js/main.06300837.chunk.js"
+  ]
+}
